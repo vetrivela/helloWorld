@@ -2,3 +2,5 @@ Text file
 LINE2
 LINE3
 LINE4
+LINE5
+LINE6
